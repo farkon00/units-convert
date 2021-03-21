@@ -1,6 +1,3 @@
-This module uses for convert lengh, volume, mass and area from unit, to other unit.
-
-Documentation:
 
 How to use:
 
